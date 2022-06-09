@@ -1,0 +1,16 @@
+C:\Users\Aie\source\repos\CodingExam1\CodingExam1\bin\Debug\net5.0\CodingExam1.exe
+C:\Users\Aie\source\repos\CodingExam1\CodingExam1\bin\Debug\net5.0\CodingExam1.deps.json
+C:\Users\Aie\source\repos\CodingExam1\CodingExam1\bin\Debug\net5.0\CodingExam1.runtimeconfig.json
+C:\Users\Aie\source\repos\CodingExam1\CodingExam1\bin\Debug\net5.0\CodingExam1.runtimeconfig.dev.json
+C:\Users\Aie\source\repos\CodingExam1\CodingExam1\bin\Debug\net5.0\CodingExam1.dll
+C:\Users\Aie\source\repos\CodingExam1\CodingExam1\bin\Debug\net5.0\ref\CodingExam1.dll
+C:\Users\Aie\source\repos\CodingExam1\CodingExam1\bin\Debug\net5.0\CodingExam1.pdb
+C:\Users\Aie\source\repos\CodingExam1\CodingExam1\obj\Debug\net5.0\CodingExam1.csproj.AssemblyReference.cache
+C:\Users\Aie\source\repos\CodingExam1\CodingExam1\obj\Debug\net5.0\CodingExam1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aie\source\repos\CodingExam1\CodingExam1\obj\Debug\net5.0\CodingExam1.AssemblyInfoInputs.cache
+C:\Users\Aie\source\repos\CodingExam1\CodingExam1\obj\Debug\net5.0\CodingExam1.AssemblyInfo.cs
+C:\Users\Aie\source\repos\CodingExam1\CodingExam1\obj\Debug\net5.0\CodingExam1.csproj.CoreCompileInputs.cache
+C:\Users\Aie\source\repos\CodingExam1\CodingExam1\obj\Debug\net5.0\CodingExam1.dll
+C:\Users\Aie\source\repos\CodingExam1\CodingExam1\obj\Debug\net5.0\ref\CodingExam1.dll
+C:\Users\Aie\source\repos\CodingExam1\CodingExam1\obj\Debug\net5.0\CodingExam1.pdb
+C:\Users\Aie\source\repos\CodingExam1\CodingExam1\obj\Debug\net5.0\CodingExam1.genruntimeconfig.cache
