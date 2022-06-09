@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aie\\source\\repos\\DuplicateNumbers\\DuplicateNumbers\\DuplicateNumbers.csproj": {}
+    "E:\\Coding_Exam-C-SQL-\\PROBLEM 2 C#\\DuplicateNumbers\\DuplicateNumbers\\DuplicateNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aie\\source\\repos\\DuplicateNumbers\\DuplicateNumbers\\DuplicateNumbers.csproj": {
+    "E:\\Coding_Exam-C-SQL-\\PROBLEM 2 C#\\DuplicateNumbers\\DuplicateNumbers\\DuplicateNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aie\\source\\repos\\DuplicateNumbers\\DuplicateNumbers\\DuplicateNumbers.csproj",
+        "projectUniqueName": "E:\\Coding_Exam-C-SQL-\\PROBLEM 2 C#\\DuplicateNumbers\\DuplicateNumbers\\DuplicateNumbers.csproj",
         "projectName": "DuplicateNumbers",
-        "projectPath": "C:\\Users\\Aie\\source\\repos\\DuplicateNumbers\\DuplicateNumbers\\DuplicateNumbers.csproj",
+        "projectPath": "E:\\Coding_Exam-C-SQL-\\PROBLEM 2 C#\\DuplicateNumbers\\DuplicateNumbers\\DuplicateNumbers.csproj",
         "packagesPath": "C:\\Users\\Aie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aie\\source\\repos\\DuplicateNumbers\\DuplicateNumbers\\obj\\",
+        "outputPath": "E:\\Coding_Exam-C-SQL-\\PROBLEM 2 C#\\DuplicateNumbers\\DuplicateNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

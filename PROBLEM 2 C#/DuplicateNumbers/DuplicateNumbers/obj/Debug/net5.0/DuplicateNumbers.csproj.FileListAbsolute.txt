@@ -14,3 +14,19 @@ C:\Users\Aie\source\repos\DuplicateNumbers\DuplicateNumbers\obj\Debug\net5.0\ref
 C:\Users\Aie\source\repos\DuplicateNumbers\DuplicateNumbers\obj\Debug\net5.0\DuplicateNumbers.pdb
 C:\Users\Aie\source\repos\DuplicateNumbers\DuplicateNumbers\obj\Debug\net5.0\DuplicateNumbers.genruntimeconfig.cache
 C:\Users\Aie\source\repos\DuplicateNumbers\DuplicateNumbers\obj\Debug\net5.0\DuplicateNumbers.csproj.AssemblyReference.cache
+E:\Coding_Exam-C-SQL-\PROBLEM 2 C#\DuplicateNumbers\DuplicateNumbers\bin\Debug\net5.0\DuplicateNumbers.exe
+E:\Coding_Exam-C-SQL-\PROBLEM 2 C#\DuplicateNumbers\DuplicateNumbers\bin\Debug\net5.0\DuplicateNumbers.deps.json
+E:\Coding_Exam-C-SQL-\PROBLEM 2 C#\DuplicateNumbers\DuplicateNumbers\bin\Debug\net5.0\DuplicateNumbers.runtimeconfig.json
+E:\Coding_Exam-C-SQL-\PROBLEM 2 C#\DuplicateNumbers\DuplicateNumbers\bin\Debug\net5.0\DuplicateNumbers.runtimeconfig.dev.json
+E:\Coding_Exam-C-SQL-\PROBLEM 2 C#\DuplicateNumbers\DuplicateNumbers\bin\Debug\net5.0\DuplicateNumbers.dll
+E:\Coding_Exam-C-SQL-\PROBLEM 2 C#\DuplicateNumbers\DuplicateNumbers\bin\Debug\net5.0\ref\DuplicateNumbers.dll
+E:\Coding_Exam-C-SQL-\PROBLEM 2 C#\DuplicateNumbers\DuplicateNumbers\bin\Debug\net5.0\DuplicateNumbers.pdb
+E:\Coding_Exam-C-SQL-\PROBLEM 2 C#\DuplicateNumbers\DuplicateNumbers\obj\Debug\net5.0\DuplicateNumbers.csproj.AssemblyReference.cache
+E:\Coding_Exam-C-SQL-\PROBLEM 2 C#\DuplicateNumbers\DuplicateNumbers\obj\Debug\net5.0\DuplicateNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding_Exam-C-SQL-\PROBLEM 2 C#\DuplicateNumbers\DuplicateNumbers\obj\Debug\net5.0\DuplicateNumbers.AssemblyInfoInputs.cache
+E:\Coding_Exam-C-SQL-\PROBLEM 2 C#\DuplicateNumbers\DuplicateNumbers\obj\Debug\net5.0\DuplicateNumbers.AssemblyInfo.cs
+E:\Coding_Exam-C-SQL-\PROBLEM 2 C#\DuplicateNumbers\DuplicateNumbers\obj\Debug\net5.0\DuplicateNumbers.csproj.CoreCompileInputs.cache
+E:\Coding_Exam-C-SQL-\PROBLEM 2 C#\DuplicateNumbers\DuplicateNumbers\obj\Debug\net5.0\DuplicateNumbers.dll
+E:\Coding_Exam-C-SQL-\PROBLEM 2 C#\DuplicateNumbers\DuplicateNumbers\obj\Debug\net5.0\ref\DuplicateNumbers.dll
+E:\Coding_Exam-C-SQL-\PROBLEM 2 C#\DuplicateNumbers\DuplicateNumbers\obj\Debug\net5.0\DuplicateNumbers.pdb
+E:\Coding_Exam-C-SQL-\PROBLEM 2 C#\DuplicateNumbers\DuplicateNumbers\obj\Debug\net5.0\DuplicateNumbers.genruntimeconfig.cache
