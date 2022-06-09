@@ -11,7 +11,7 @@ namespace CodingExam1
                 Console.Write("Input a string: ");
                 string word = Console.ReadLine().ToLower();
 
-                Console.Write("OUTPUT: " + toWeirdCase(word));
+                Console.WriteLine("OUTPUT: " + toWeirdCase(word) +"\n");
             }
            
         }
